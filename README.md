@@ -13,7 +13,7 @@ A aplicacao expoe uma API REST para gerenciamento de:
 - marcas
 - carros
 
-Tambem conta com documentacao tecnica em `docs/` e documentacao interativa automatica via Swagger e ReDoc.
+Tambem conta com documentacao tecnica em `docs/` e documentacao interativa automatica via Swagger.
 
 ## Stack utilizada
 
