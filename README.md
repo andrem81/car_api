@@ -190,7 +190,6 @@ Com a aplicacao em execucao:
 
 - API: `http://127.0.0.1:8000`
 - Swagger UI: `http://127.0.0.1:8000/docs`
-- ReDoc: `http://127.0.0.1:8000/redoc`
 - Health check: `http://127.0.0.1:8000/health_check`
 - MkDocs: `http://127.0.0.1:8001`
 
